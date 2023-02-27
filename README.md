@@ -1,1 +1,3 @@
-# cooley-tukey-fast-fourier-transform
+# Fast Fourier Transform: Cooley Tukey Algorithm
+
+December 2022. This group project was part of my Signals & Systems course. The Fast Fourier Transform (FFT) is a widely used algorithm for efficiently calculating the discrete Fourier transform of a sequence of numbers. The Fourier Transform is a mathematical operation that decomposes a function or a signal into its frequency components. The FFT algorithm is based on the idea of dividing the input sequence into smaller sub-sequences and calculating the transform of each sub-sequence separately, using a recursive approach. The Cooley-Tukey algorithm is a particularly efficient method for calculating the discrete Fourier Transform of a sequence of numbers. The purpose of this project is to investigate the Cooley-Tukey Algorithm for the Fast Fourier Transform. This will be done by building an implementation of the algorithm in Mathematica.
